@@ -1,0 +1,16 @@
+{
+  "suiteMapping": {
+    "f48db2b7-d62f-41f3-9847-f7aa57c28e61": [
+      {"roundBindingId":"16bc23b5-db7c-4b53-ba4c-1a3942e97fe6","tcId":"4ab6d869-7947-42e4-bf7e-be28d8dddc8c","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"4a5b73e8-8e9f-420a-91eb-f484b2eab9cf","tcId":"25b828cf-7edf-47c4-9642-2f022b390371","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"2499bf7c-abee-4d3d-a3f4-5954b3d35ec5","tcId":"fcf3ac88-3526-48ae-86dc-9907ce983e72","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"17e36085-b28b-4156-b3d3-71bd2f7d3d23","tcId":"b78a2f25-ac81-43f8-ba9e-d6cc19b3f07d","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"2054dca0-39ed-4b45-84fb-26dd4e5b1df3","tcId":"c02815cf-00ac-47b4-87f8-061115212c29","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"840b5749-8f47-414d-a183-ab3e3b9d7a6a","tcId":"b079ca25-001a-47de-983d-a86d78674582","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"37d793ff-cc44-4bcb-a726-6a1193840c7e","tcId":"085cf895-a6fe-4617-b730-ebf8befbfa6a","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"25bc2a8c-b4a0-464f-a5f3-09cfbf86a8f2","tcId":"34ecedfd-c41a-4445-a6b1-e732c6c32e4b","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"3e558fbf-a5ed-4553-b07c-f8536dd031fc","tcId":"fd6902c8-8e8c-4975-b6cb-273457cdfd1f","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""},
+      {"roundBindingId":"dd93b45c-b4e1-44c4-9c8b-3a43bd0395fc","tcId":"eb6cb635-99ee-4c8d-b81c-b545542334a4","dataId":"","selectedRowKey":[],"testCaseVariableBinding":[],"roundNameSource":"Default","roundName":""}
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Custom Keywords",
+  "packageId": "custom",
+  "keywordType": "custom",
+  "version": "1.0.0",
+  "disabled": false,
+  "keywordCatalogs": [
+    {
+      "id": "3",
+      "name": "Windows Keywords",
+      "platform": "windows",
+      "source": "internal",
+      "keywords": [
+        {"uuid":"bd122f64-f537-444d-aed0-07b854b1148e","name":"getTextV2","platform":{"type":"windows"},"objRepo":[{"name":"Repo1","type":"UIObject","defaultValue":"","source":""}],"params":[{"name":"Param1","type":"String","defaultValue":"","source":""},{"name":"Param2","type":"Boolean","defaultValue":"true","source":""},{"name":"Param3","type":"Boolean","defaultValue":"true","source":""},{"name":"Param4","type":"Integer","defaultValue":"0","source":""}],"output":{"name":"","type":"String","defaultValue":""},"keywordPath":"KeywordCustom","keywordSource":"custom","keywordMethod":"getText","description":"","failureDescription":"","enable":true,"captureImg":false},
+        {"uuid":"5c7c2658-e2ee-4a8b-b7de-763b7578aaed","name":"getText","platform":{"type":"windows"},"objRepo":[],"params":[{"name":"actual","type":"String","defaultValue":"","source":""},{"name":"expect","type":"String","defaultValue":"","source":""}],"output":{"name":"","type":"String","defaultValue":""},"keywordPath":"KeywordCustom","keywordSource":"custom","keywordMethod":"getText","description":"","failureDescription":"","enable":true,"captureImg":false}
+      ]
+    }
+  ],
+  "customCatalogs": [],
+  "afterTcKws": []
+}

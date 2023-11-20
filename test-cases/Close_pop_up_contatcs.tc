@@ -1,0 +1,207 @@
+{
+  "varNode": {
+    "descendants": {
+      "INPUT": {
+        "descendants": {}
+      },
+      "REPO": {
+        "descendants": {}
+      },
+      "OUTPUT": {
+        "descendants": {}
+      },
+      "KEYWORD": {
+        "descendants": {}
+      }
+    },
+    "value": "c02815cf-00ac-47b4-87f8-061115212c29"
+  },
+  "platform": {
+    "type": "windows",
+    "displayName": "windows"
+  },
+  "setUpList": [],
+  "stepList": [
+    {
+      "uuid": "6d435678-8504-4b8d-9dd2-85cb774da48f",
+      "name": "Open app",
+      "platform": {
+        "type": "windows"
+      },
+      "objRepo": [],
+      "params": [],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "203",
+      "keywordSource": "internal",
+      "keywordMethod": "startWindowsApplicationAutomation",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "enable": true,
+      "captureImg": false
+    },
+    {
+      "uuid": "a4c7cb1a-9d5f-4591-a9b9-d07836eca6f7",
+      "name": "Open side bar",
+      "platform": {
+        "type": "windows",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [
+        {
+          "name": "target",
+          "type": "Windows UIObject",
+          "defaultValue": "fd234d07-a219-4e1f-b060-9eab58971599",
+          "source": ""
+        }
+      ],
+      "params": [
+        {
+          "name": "timeout",
+          "type": "Integer",
+          "defaultValue": "10",
+          "source": ""
+        }
+      ],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "205",
+      "keywordSource": "internal",
+      "keywordMethod": "click",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    },
+    {
+      "uuid": "1b7ef44d-b032-4684-a516-73a281eecb88",
+      "name": "Open contacts",
+      "platform": {
+        "type": "windows",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [
+        {
+          "name": "target",
+          "type": "Windows UIObject",
+          "defaultValue": "8e21f72a-b9e1-4e1d-af29-197a0b880586",
+          "source": ""
+        }
+      ],
+      "params": [
+        {
+          "name": "timeout",
+          "type": "Integer",
+          "defaultValue": "10",
+          "source": ""
+        }
+      ],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "205",
+      "keywordSource": "internal",
+      "keywordMethod": "click",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    },
+    {
+      "uuid": "128e0c60-c3b8-4656-875a-4ad84bfa5281",
+      "name": "Close button",
+      "platform": {
+        "type": "windows",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [
+        {
+          "name": "target",
+          "type": "Windows UIObject",
+          "defaultValue": "422e2093-a0eb-4545-9be2-6343d0813cb8",
+          "source": ""
+        }
+      ],
+      "params": [
+        {
+          "name": "timeout",
+          "type": "Integer",
+          "defaultValue": "10",
+          "source": ""
+        }
+      ],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "205",
+      "keywordSource": "internal",
+      "keywordMethod": "click",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    },
+    {
+      "uuid": "8af25dad-4a8c-4ca5-906e-69fc1158e82c",
+      "name": "Verify Element Not Present",
+      "platform": {
+        "type": "windows",
+        "displayName": "",
+        "capUUID": ""
+      },
+      "objRepo": [
+        {
+          "name": "target",
+          "type": "Windows UIObject",
+          "defaultValue": "422e2093-a0eb-4545-9be2-6343d0813cb8",
+          "source": ""
+        }
+      ],
+      "params": [
+        {
+          "name": "timeout",
+          "type": "Integer",
+          "defaultValue": "10",
+          "source": ""
+        }
+      ],
+      "output": {
+        "name": "",
+        "type": "void",
+        "defaultValue": "",
+        "source": ""
+      },
+      "keywordPath": "239",
+      "keywordSource": "internal",
+      "keywordMethod": "verifyElementNotPresent",
+      "description": "",
+      "failureHandling": "STOP_ON_FAILURE",
+      "failureDescription": "",
+      "enable": true,
+      "captureImg": false
+    }
+  ],
+  "tearDownList": [],
+  "managerId": "",
+  "uuid": "c02815cf-00ac-47b4-87f8-061115212c29"
+}

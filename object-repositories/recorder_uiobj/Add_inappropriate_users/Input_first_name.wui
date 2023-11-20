@@ -1,0 +1,34 @@
+{
+  "locatorList": [
+    {
+      "strategy": "XPath",
+      "value": "/Window/Group[2]/Group/Group[2]/Group[2]/Group[1]/Group[1]/Edit/Group",
+      "active": true,
+      "type": []
+    },
+    {
+      "strategy": "Accessibility ID",
+      "value": "qt_scrollarea_viewport",
+      "active": true,
+      "type": []
+    },
+    {
+      "strategy": "XPath",
+      "value": "//Group[1]/Edit/Group",
+      "active": true,
+      "type": []
+    }
+  ],
+  "varNode": {
+    "descendants": {
+      "REPO": {
+        "descendants": {}
+      }
+    },
+    "value": "a33cd419-7251-403b-8e95-ee961c01b234"
+  },
+  "type": "windows",
+  "inShadowRoot": false,
+  "parentId": "",
+  "uuid": "a33cd419-7251-403b-8e95-ee961c01b234"
+}
